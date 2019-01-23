@@ -1,2 +1,5 @@
 # dubboxtest
 dubboxtest
+service是服务提供方
+consumer是服务消费方
+在配置文件里要配连接zookeepr服务器的ip地址
